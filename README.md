@@ -16,4 +16,4 @@ npm install coginitivehacker/summoning-devil.js
 
 This lib only works for beliviers.
 
-[Behemoth](./behemoth.gif)
+![Behemoth](./behemoth.gif)
